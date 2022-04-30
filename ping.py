@@ -77,12 +77,6 @@ def ping(ip):
     return result
 
 
-def add():
-    global r
-    global newip
-    r.write(newip)
-
-
 def generator(date,r):
     r.write(f"Connectivity report of Key equipment (Local and Remote) of the {date} \n")
     r.write(" \n")
