@@ -7,3 +7,6 @@ Small tool for managing your ping test to check your equipment and generate a re
 You can update your equipment list.
 
 it interactive if you want.
+
+# Notes
+Use ["ping","-c","2", ip] on linux
