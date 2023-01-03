@@ -10,3 +10,6 @@ it interactive if you want.
 
 # Notes
 Use ["ping","-c","2", ip] on linux
+
+# Important
+You will need the new way to use gmail to send mail in python
